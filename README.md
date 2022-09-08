@@ -4,7 +4,7 @@ Sujet 2 afficher un objet de la classe Student
 
 2 - Create a launcher with **Edit Configuration**  
 
-![img.png](img.png)
+![img.png](src/main/resources/document/img.png)
 
 3 - Launch Application     
-![img_1.png](img_1.png)
+![img_1.png](src/main/resources/document/img_1.png)
